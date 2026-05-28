@@ -1,4 +1,4 @@
-\# The Heart of the Home: A Manifesto for Life 2.0 Domestic Architecture
+# The Heart of the Home: A Manifesto for Life 2.0 Domestic Architecture
 
 
 
@@ -6,7 +6,7 @@ Welcome to the open-source blueprint for the next evolution of human living spac
 
 
 
-\## 👁️ The Vision
+## 👁️ The Vision
 
 
 
@@ -18,7 +18,7 @@ This project is a direct call-out to manufacturers. We are open-sourcing a compl
 
 
 
-\## 🗂️ Repository Structure
+## 🗂️ Repository Structure
 
 
 
@@ -26,15 +26,15 @@ This book is organized like a software stack to allow developers, designers, and
 
 
 
-\* `/philosophy` - The cultural, spiritual, and systemic necessity of secure shelter and human connection.
+* `/philosophy` - The cultural, spiritual, and systemic necessity of secure shelter and human connection.
 
-\* `/hardware` - Open technical specifications, sensor blueprints, and thermal node designs for appliances.
+* `/hardware` - Open technical specifications, sensor blueprints, and thermal node designs for appliances.
 
-\* `/lost-techniques` - A markdown database mapping the physical parameters of ancestral cooking and preservation.
+* `/lost-techniques` - A markdown database mapping the physical parameters of ancestral cooking and preservation.
 
 
 
-\## ⚖️ Open Source License (Creative Commons Attribution-ShareAlike 4.0)
+## ⚖️ Open Source License (Creative Commons Attribution-ShareAlike 4.0)
 
 
 
@@ -42,17 +42,17 @@ This work is licensed under the \*\*Creative Commons Attribution-ShareAlike 4.0 
 
 
 
-\### Why this License?
+### Why this License?
 
-\* \*\*Attribution:\*\* Anyone using, sharing, or building upon this book must give you proper credit.
+* \*\*Attribution:\*\* Anyone using, sharing, or building upon this book must give you proper credit.
 
-\* \*\*ShareAlike:\*\* If anyone modifies, forks, or builds upon these blueprints to create their own commercial or open-source appliances, they \*\*must\*\* release their modifications under the exact same open-source license. This prevents corporations from locking your ideas behind proprietary patents.
+* \*\*ShareAlike:\*\* If anyone modifies, forks, or builds upon these blueprints to create their own commercial or open-source appliances, they \*\*must\*\* release their modifications under the exact same open-source license. This prevents corporations from locking your ideas behind proprietary patents.
 
 
 
-\---
+---
 
-\*“We shape our buildings; thereafter they shape us.” — Co-evolving gracefully alongside the systems we create.\*
+*“We shape our buildings; thereafter they shape us.” — Co-evolving gracefully alongside the systems we create.\*
 
 
 
