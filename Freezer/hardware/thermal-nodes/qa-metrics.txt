@@ -1,0 +1,18 @@
+#### The Delta-T ($\Delta T$) Optimization Formula:
+Energy consumption is directly tied to the work required to maintain the temperature gap between the room and the interior:
+$$\Delta T = T_{\text{ambient}} - T_{\text{internal}}$$
+
+By shifting the node to a winter garage ($40^{\circ}\text{F}$ ambient) instead of a heated kitchen ($72^{\circ}\text{F}$ ambient), the compressor workload is mathematically reduced by over 40%.
+
+#### Mandatory Engineering Safeguards for Garage Deployment:
+* **Dual-Environment Multi-Sensors:** Prevents the system from shutting off when ambient external temperatures drop below freezing.
+* **Variable-Capacity Linear Compressors:** Capable of reversing cycles to act as a mild internal warming mechanism if external temperatures drop to extreme sub-zero levels, preventing internal inventory spoilage.
+* **Vacuum-Insulated Panels (VIPs):** Replacing standard polyurethane foam to deliver 5x thermal resistance at 1/5th the physical wall thickness.
+
+---
+
+## 📅 Post-360 Open Source Review Metrics
+When testing prototype variants of this node, developers must track these three key performance indicators (KPIs) over a 360-day testing window:
+1. **Total Kilowatt-Hour (kWh) Draw:** Compare cumulative energy consumption against a control kitchen unit over four full seasonal shifts.
+2. **Moisture-Loss Analytics:** Measure mass degradation of inventory post-thaw at Day 90, 180, and 270 to verify cellular structural integrity.
+3. **Compressor Cycle Friction:** Track duty-cycle degradation under ambient garage spikes ($15^{\circ}\text{F}$ to $95^{\circ}\text{F}$).
