@@ -10,8 +10,10 @@ They require darkness, humidity control, or simple air circulation.
 
 By separating these out, your primary kitchen footprint only needs a very small, high-efficiency active "Bio-Vault" (Zone 1) and a "Larder" (Zone 2) at eye level. The rest can be distributed into passive, beautiful pantry furniture.
 
+As a civilization we've been using a eco-unfriendly hammer for all our food storage needs for ~ 100 years.  It is time to re-think everything about the way we manage our resources.  
 
 
+# Refrigerator Design Considerations
 
 
 ## 1. The "Single-Atmosphere" Fallacy (Biological Chaos)
